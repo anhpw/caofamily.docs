@@ -5,39 +5,33 @@ sidebar_position: 6
 # Câu hỏi thường gặp
 
 <details>
-<summary>Deserunt pariatur amet minim?</summary>
+<summary>Làm thế nào để truy cập được dữ liệu gia phả?</summary>
 
-These are extensions which I'm using and you should consider to install them to automate your increasingly local development.
+Để truy cập được dữ liệu gia phả. Người dùng cần có tài khoản GitHub và tài khoản đó phải được cấp quyền truy cập vào cơ sở dữ liệu gia phả tại địa chỉ	`https://github.com/anhpw/caofamily.data`
 
-**Basic**
+Xem các hướng dẫn sau để có tài khoản và được cấp quyền truy cập:
 
-- Auto Close Tag (Jun Han)
-- Auto Import (steoates)
-- Auto Rename Tag (Jun Han)
-- MDX (unified) => This helps highlight syntax in MDX files
-- Text Power Tools (Dániel Tar) => Slugify your text
+1. **[Tạo tài khoản GitHub](tra-cuu-online/tao-tai-khoan)** *(nếu chưa có)*
 
-**Advanced**
+2. **[Xin cấp quyền truy cập](tra-cuu-online/cap-quyen-truy-cap)**
 
-- Better Comments (Aaron Bond)
-- Duplicate selection or line (Greg Bacchus)
-- ESLint (Microsoft)
-- File Utils (Steffen Leistner)
-- Headwind (Ryan Hebourn)
-- IntelliCode (Microsoft)
-- Output Colorizer (IBM)
-- Prettier - Code formatter (Prettier)
-- Tailwind CSS IntelliSense (Tailwind Labs)
-- Tabnine (TabNine) - AI Code completion plugin (free plan)
+Sau đó hãy lựa chọn hình thức truy cập online hoặc offline.
+
+1. Truy cập online thì truy cập trực tiếp tại địa chỉ `https://github.com/anhpw/caofamily.data` mà không cần cài đặt gì cả. Nhưng khi ấy chỉ có thể tìm kiếm thông tin mà không có cách chức năng về `Bản đồ quan hệ`, `Bản đồ địa lý`, `Cây gia phả`,..v.v
+
+2. Truy cập offline thì xem hướng dẫn **[tại đây](tra-cuu-offline)**
 
 </details>
 
 <details>
-<summary>Magna dolore consectetur qui?</summary>
+<summary>Làm thế nào để cập nhật dữ liệu gia phả?</summary>
 
-You can google for what you want. I often get icons and pictures from these websites:
-
-- https://icons8.com/icons or  https://www.flaticon.com - for icons
-- https://unsplash.com - for pictures
+Việc cập nhật dữ liệu gia phả cần sự thận trọng. Hãy hỗ trợ tộc họ cập nhật thông tin qua hình thức được hướng dẫn chi tiết tại bài viết **[Cập nhật dữ liệu gia phả](cap-nhap-du-lieu)**.
 
 </details>
+
+:::info
+
+Nếu còn bất cứ câu hỏi hay thắc mắc nào. Vui lòng liên hệ ông `Cao Hồng Anh`
+
+:::

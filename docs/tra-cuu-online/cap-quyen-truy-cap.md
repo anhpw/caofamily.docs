@@ -4,28 +4,38 @@ sidebar_position: 2
 
 # Cấp quyền truy cập
 
-sdsdsds is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+## Yêu cầu cấp quyền
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+Gửi `username` của tài khoản vào nhóm Zalo **`CAO TỔ ĐÔNG DƯƠNG`** và yêu cầu cấp quyền truy cập dữ liệu gia phả. Mục đích này nhằm công khai tất cả các tài khoản được truy cập, tránh cấp nhầm cho người lạ.
 
-## Build your site
+## Cấp quyền truy cập
 
-Build your site **for production**:
+Sau khi **`Quản trị viên`** cấp quyền cho tài khoản xong. Bạn sẽ nhận được 1 email là lời mời tham gia cộng tác cho **`anhpw/caofamily.data`** *(đây là cơ sở dữ liệu gia phả)*.
 
-```bash
-npm run build
-```
+<div style={{textAlign: 'center'}}>
 
-The static files are generated in the `build` folder.
+![invite email](images/invite-email.png)
 
-## Deploy your site
+</div>
 
-Test your production build locally:
+Nhấp vào nút **`View Invitation`** thì sẽ mở trang web như bên dưới. Sau đó, Nhấp nút **`Accept Invitation`**
 
-```bash
-npm run serve
-```
+<div style={{textAlign: 'center'}}>
 
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
+![invite accept](images/invite-accept.png)
 
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+</div>
+
+Và hệ thống sẽ **thông báo thành công** như sau:
+
+<div style={{textAlign: 'center'}}>
+
+![access granted](images/thong-bao-da-cap-quyen-truy-cap.png)
+
+</div>
+
+:::info
+
+Sau khi được cấp quyền truy cập thành công, hãy truy cập cơ sở dữ liệu gia phả tại địa chỉ: **`https://github.com/anhpw/caofamily.data`**
+
+:::
