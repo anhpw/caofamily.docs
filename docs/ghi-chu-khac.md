@@ -6,10 +6,26 @@ sidebar_position: 7
 
 Một số video đã đăng trong quá trình thực hiện dự án `Số Hóa Gia Phả`.
 
-## Giới thiệu tính năng `Sơ Đồ Mối Quan Hệ`
+## Trình bày kế hoạch Số hóa
 
 ```mdx-code-block
 import LiteYouTubeEmbed from 'react-lite-youtube-embed';
+
+<div className="video-container">
+  <LiteYouTubeEmbed
+    id="GJF-5XzlpNQ"
+    playlist={false}
+    title="Trình bày kế hoạch số hóa gia phả họ Cao"
+    poster="hqdefault"
+    noCookie={true}
+  />
+</div>
+
+```
+
+## Giới thiệu `Sơ Đồ Mối Quan Hệ`
+
+```mdx-code-block
 
 <div className="video-container">
   <LiteYouTubeEmbed
@@ -23,7 +39,7 @@ import LiteYouTubeEmbed from 'react-lite-youtube-embed';
 
 ```
 
-## Cập nhật tính năng `Bản đồ địa lý`
+## Giới thiệu `Bản đồ địa lý`
 
 ```mdx-code-block
 
