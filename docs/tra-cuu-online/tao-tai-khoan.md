@@ -79,8 +79,6 @@ Truy cập trang Profile trên GitHub.
 
 :::
 
-
-
 ## Những lưu ý khi tạo tài khoản
 
 
