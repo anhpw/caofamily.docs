@@ -114,7 +114,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Số Hóa Gia Phả © ${new Date().getFullYear()} <br> Gia tộc họ Cao Chi Phái Đông Dương`,
+        copyright: `Số Hóa Gia Phả © ${new Date().getFullYear()} <br> Gia tộc họ Cao chi phái Đông Dương`,
       },
       prism: {
         theme: lightCodeTheme,
