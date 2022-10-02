@@ -52,9 +52,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Hướng Dẫn Số Hóa Gia Phả',
+        title: 'Dự Án Số Hóa Gia Phả',
         logo: {
-          alt: 'Họ Cao chi phái Đông Dương',
+          alt: 'Gia tộc họ Cao chi phái Đông Dương',
           src: 'img/logo.svg',
         },
         items: [
@@ -114,7 +114,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Số Hóa Gia Phả © ${new Date().getFullYear()} Họ Cao Chi Phái Đông Dương`,
+        copyright: `Số Hóa Gia Phả © ${new Date().getFullYear()} <br> Gia tộc họ Cao Chi Phái Đông Dương`,
       },
       prism: {
         theme: lightCodeTheme,
