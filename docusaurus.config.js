@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Họ Cao Tại Đông Dương',
   tagline: 'Kết nối tộc họ Cao chi phái Đông Dương',
-  url: 'https://docs.cao.family',
+  url: 'https://docs.cao.id.vn',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
